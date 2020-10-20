@@ -1,0 +1,8 @@
+
+host = "smtp.qiye.aliyun.com"
+
+port = 25
+
+sender = "rock@longguikeji.com"
+
+password = "$uH8PXR2"
