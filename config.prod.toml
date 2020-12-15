@@ -3,6 +3,6 @@ host = "smtp.qiye.aliyun.com"
 
 port = 25
 
-sender = "rock@longguikeji.com"
+sender = "DEMO EMAIL ADDRESS"
 
-password = "$uH8PXR2"
+password = "DEMO EMAIL PASSWORD"
